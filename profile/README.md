@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/75fcf94b-8d35-4cff-83a4-4f74b9e0fcbc" alt="Fun Java Community Banner" width="300"/>
+  <img src="https://github.com/user-attachments/assets/43121e0b-d789-4f08-b841-14784530c49c" alt="Fun Java Community Banner" width="300"/>
 </p>
 
 <h1 align="center">👋 Selamat Datang di Fun Java Community</h1>
