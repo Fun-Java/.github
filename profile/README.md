@@ -13,7 +13,7 @@
 
 ## 🚀 Tentang Kami
 
-Di komunitas Fun Java Community, kami percaya bahwa dasar pemrograman yang kuat dimulai dari bahasa Java.
+Di komunitas Fun Java, kami percaya bahwa dasar pemrograman yang kuat dimulai dari bahasa Java.
 Kami berfokus pada pembelajaran, berbagi pengetahuan, dan kolaborasi untuk mahasiswa UIN Maliki, terutama yang baru terjun ke dunia programming.
 
 - ☕️ **Fokus Utama:** Belajar & berbagi seputar Java Programming, algoritma, struktur data, dan konsep fundamental.
@@ -65,10 +65,10 @@ Komunitas ini terbuka untuk semua! Mari belajar dan bertumbuh bersama.
 <br>
 
 <p align="center">
-  <a href="https://www.instagram.com/mobilemocap/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.instagram.com/funjava_community/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   &nbsp;
-  <a href="https://wa.me/6289518690980" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <a href="https://wa.me/6281515635943" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
 
@@ -76,7 +76,3 @@ Komunitas ini terbuka untuk semua! Mari belajar dan bertumbuh bersama.
 
 <br>
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOC-AP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistik GitHub Fun Java Community"/>
-</p>
